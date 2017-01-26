@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author Joshua Dow, 101050588. Finished 30/10/2016
  */
-public class Assignment22 {
+public class JavaMult {
 
     /**
      * @param args the command line arguments
